@@ -1,0 +1,1 @@
+## This contains the server and client codes to simulate attacker behaviour, detect attacker, and isolate the attacker (ignore the packets it sends after it is detected). Then we calculate metrics like PDR, packet loss and inter-packet gap.
