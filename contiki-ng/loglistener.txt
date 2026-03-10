@@ -1,0 +1,327 @@
+00:00.073	ID:8	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.073	ID:8	[INFO: Main      ] - Routing: RPL Lite
+00:00.073	ID:8	[INFO: Main      ] - Net: sicslowpan
+00:00.073	ID:8	[INFO: Main      ] - MAC: CSMA
+00:00.073	ID:8	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.073	ID:8	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.073	ID:8	[INFO: Main      ] Node ID: 8
+00:00.073	ID:8	[INFO: Main      ] Link-layer address: 0008.0008.0008.0008
+00:00.073	ID:8	[INFO: Main      ] Tentative link-local IPv6 address: fe80::208:8:8:8
+00:00.190	ID:11	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.190	ID:11	[INFO: Main      ] - Routing: RPL Lite
+00:00.190	ID:11	[INFO: Main      ] - Net: sicslowpan
+00:00.190	ID:11	[INFO: Main      ] - MAC: CSMA
+00:00.190	ID:11	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.190	ID:11	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.190	ID:11	[INFO: Main      ] Node ID: 11
+00:00.190	ID:11	[INFO: Main      ] Link-layer address: 000b.000b.000b.000b
+00:00.190	ID:11	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20b:b:b:b
+00:00.236	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.236	ID:2	[INFO: Main      ] - Routing: RPL Lite
+00:00.236	ID:2	[INFO: Main      ] - Net: sicslowpan
+00:00.236	ID:2	[INFO: Main      ] - MAC: CSMA
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.236	ID:2	[INFO: Main      ] Node ID: 2
+00:00.236	ID:2	[INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+00:00.236	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+00:00.250	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.250	ID:6	[INFO: Main      ] - Routing: RPL Lite
+00:00.250	ID:6	[INFO: Main      ] - Net: sicslowpan
+00:00.250	ID:6	[INFO: Main      ] - MAC: CSMA
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.250	ID:6	[INFO: Main      ] Node ID: 6
+00:00.250	ID:6	[INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+00:00.250	ID:6	[INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+00:00.348	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.348	ID:4	[INFO: Main      ] - Routing: RPL Lite
+00:00.348	ID:4	[INFO: Main      ] - Net: sicslowpan
+00:00.348	ID:4	[INFO: Main      ] - MAC: CSMA
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.348	ID:4	[INFO: Main      ] Node ID: 4
+00:00.348	ID:4	[INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+00:00.348	ID:4	[INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+00:00.382	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.382	ID:1	[INFO: Main      ] - Routing: RPL Lite
+00:00.382	ID:1	[INFO: Main      ] - Net: sicslowpan
+00:00.382	ID:1	[INFO: Main      ] - MAC: CSMA
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.382	ID:1	[INFO: Main      ] Node ID: 1
+00:00.382	ID:1	[INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+00:00.382	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+00:00.402	ID:7	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.402	ID:7	[INFO: Main      ] - Routing: RPL Lite
+00:00.402	ID:7	[INFO: Main      ] - Net: sicslowpan
+00:00.402	ID:7	[INFO: Main      ] - MAC: CSMA
+00:00.402	ID:7	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.402	ID:7	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.402	ID:7	[INFO: Main      ] Node ID: 7
+00:00.402	ID:7	[INFO: Main      ] Link-layer address: 0007.0007.0007.0007
+00:00.402	ID:7	[INFO: Main      ] Tentative link-local IPv6 address: fe80::207:7:7:7
+00:00.450	ID:14	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.450	ID:14	[INFO: Main      ] - Routing: RPL Lite
+00:00.450	ID:14	[INFO: Main      ] - Net: sicslowpan
+00:00.450	ID:14	[INFO: Main      ] - MAC: CSMA
+00:00.450	ID:14	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.450	ID:14	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.450	ID:14	[INFO: Main      ] Node ID: 14
+00:00.450	ID:14	[INFO: Main      ] Link-layer address: 000e.000e.000e.000e
+00:00.450	ID:14	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20e:e:e:e
+00:00.462	ID:15	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.462	ID:15	[INFO: Main      ] - Routing: RPL Lite
+00:00.462	ID:15	[INFO: Main      ] - Net: sicslowpan
+00:00.462	ID:15	[INFO: Main      ] - MAC: CSMA
+00:00.462	ID:15	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.462	ID:15	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.462	ID:15	[INFO: Main      ] Node ID: 15
+00:00.462	ID:15	[INFO: Main      ] Link-layer address: 000f.000f.000f.000f
+00:00.462	ID:15	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20f:f:f:f
+00:00.473	ID:16	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.473	ID:16	[INFO: Main      ] - Routing: RPL Lite
+00:00.473	ID:16	[INFO: Main      ] - Net: sicslowpan
+00:00.473	ID:16	[INFO: Main      ] - MAC: CSMA
+00:00.473	ID:16	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.473	ID:16	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.473	ID:16	[INFO: Main      ] Node ID: 16
+00:00.473	ID:16	[INFO: Main      ] Link-layer address: 0010.0010.0010.0010
+00:00.473	ID:16	[INFO: Main      ] Tentative link-local IPv6 address: fe80::210:10:10:10
+00:00.556	ID:10	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.556	ID:10	[INFO: Main      ] - Routing: RPL Lite
+00:00.556	ID:10	[INFO: Main      ] - Net: sicslowpan
+00:00.556	ID:10	[INFO: Main      ] - MAC: CSMA
+00:00.556	ID:10	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.556	ID:10	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.556	ID:10	[INFO: Main      ] Node ID: 10
+00:00.556	ID:10	[INFO: Main      ] Link-layer address: 000a.000a.000a.000a
+00:00.556	ID:10	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20a:a:a:a
+00:00.594	ID:12	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.594	ID:12	[INFO: Main      ] - Routing: RPL Lite
+00:00.594	ID:12	[INFO: Main      ] - Net: sicslowpan
+00:00.594	ID:12	[INFO: Main      ] - MAC: CSMA
+00:00.594	ID:12	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.594	ID:12	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.594	ID:12	[INFO: Main      ] Node ID: 12
+00:00.594	ID:12	[INFO: Main      ] Link-layer address: 000c.000c.000c.000c
+00:00.594	ID:12	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20c:c:c:c
+00:00.708	ID:9	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.708	ID:9	[INFO: Main      ] - Routing: RPL Lite
+00:00.708	ID:9	[INFO: Main      ] - Net: sicslowpan
+00:00.708	ID:9	[INFO: Main      ] - MAC: CSMA
+00:00.708	ID:9	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.708	ID:9	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.708	ID:9	[INFO: Main      ] Node ID: 9
+00:00.708	ID:9	[INFO: Main      ] Link-layer address: 0009.0009.0009.0009
+00:00.708	ID:9	[INFO: Main      ] Tentative link-local IPv6 address: fe80::209:9:9:9
+00:00.715	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.715	ID:5	[INFO: Main      ] - Routing: RPL Lite
+00:00.715	ID:5	[INFO: Main      ] - Net: sicslowpan
+00:00.715	ID:5	[INFO: Main      ] - MAC: CSMA
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.715	ID:5	[INFO: Main      ] Node ID: 5
+00:00.715	ID:5	[INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+00:00.715	ID:5	[INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+00:00.884	ID:13	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.884	ID:13	[INFO: Main      ] - Routing: RPL Lite
+00:00.884	ID:13	[INFO: Main      ] - Net: sicslowpan
+00:00.884	ID:13	[INFO: Main      ] - MAC: CSMA
+00:00.884	ID:13	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.884	ID:13	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.884	ID:13	[INFO: Main      ] Node ID: 13
+00:00.884	ID:13	[INFO: Main      ] Link-layer address: 000d.000d.000d.000d
+00:00.884	ID:13	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20d:d:d:d
+00:00.899	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.899	ID:3	[INFO: Main      ] - Routing: RPL Lite
+00:00.899	ID:3	[INFO: Main      ] - Net: sicslowpan
+00:00.899	ID:3	[INFO: Main      ] - MAC: CSMA
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.899	ID:3	[INFO: Main      ] Node ID: 3
+00:00.899	ID:3	[INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+00:00.899	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+00:16.316	ID:5	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:22.679	ID:3	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:23.951	ID:2	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:26.993	ID:4	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:34.701	ID:8	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:39.862	ID:10	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:40.527	ID:6	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:41.894	ID:7	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:49.218	ID:9	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:54.058	ID:11	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+00:57.519	ID:14	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+01:02.945	ID:13	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+01:07.598	ID:12	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+01:17.735	ID:16	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+01:27.315	ID:15	[INFO: App       ] Tx/Rx/MissedTx: 0/0/0
+01:57.554	ID:5	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:04.016	ID:3	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:04.797	ID:2	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:07.331	ID:4	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:16.554	ID:8	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:21.244	ID:7	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:22.255	ID:6	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:22.456	ID:10	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:28.668	ID:9	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:35.184	ID:11	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:38.340	ID:14	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:42.669	ID:13	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:48.057	ID:12	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+02:56.320	ID:16	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+03:06.034	ID:15	[INFO: App       ] Tx/Rx/MissedTx: 10/10/0
+03:40.529	ID:5	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+03:43.288	ID:3	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+03:48.133	ID:4	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+03:48.231	ID:2	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+03:54.485	ID:8	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:01.157	ID:6	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:01.460	ID:7	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:01.797	ID:10	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:07.152	ID:9	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:16.538	ID:11	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:21.036	ID:14	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:26.314	ID:13	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:27.303	ID:12	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:36.677	ID:16	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+04:46.979	ID:15	[INFO: App       ] Tx/Rx/MissedTx: 20/20/0
+05:20.426	ID:5	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:21.312	ID:3	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:28.138	ID:4	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:30.361	ID:2	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:33.591	ID:8	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:37.908	ID:6	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:42.421	ID:10	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:44.685	ID:7	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:47.764	ID:9	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+05:56.271	ID:11	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+06:00.486	ID:14	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+06:05.577	ID:13	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+06:08.389	ID:12	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+06:17.206	ID:16	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+06:27.647	ID:15	[INFO: App       ] Tx/Rx/MissedTx: 30/30/0
+07:01.700	ID:3	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:02.475	ID:5	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:09.603	ID:4	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:11.484	ID:2	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:14.106	ID:8	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:21.035	ID:6	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:23.683	ID:7	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:23.878	ID:10	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:31.244	ID:9	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:34.486	ID:11	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:39.769	ID:14	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:42.701	ID:13	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:48.263	ID:12	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+07:59.899	ID:16	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+08:10.267	ID:15	[INFO: App       ] Tx/Rx/MissedTx: 40/40/0
+08:40.938	ID:3	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+08:42.746	ID:5	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+08:49.422	ID:4	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+08:52.710	ID:2	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+08:53.976	ID:8	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:01.429	ID:6	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:04.459	ID:7	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:05.129	ID:10	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:12.118	ID:9	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:14.829	ID:11	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:18.815	ID:14	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:21.925	ID:13	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:29.258	ID:12	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:34.782	ID:16	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+09:51.251	ID:15	[INFO: App       ] Tx/Rx/MissedTx: 50/50/0
+10:00.073	ID:8	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.073	ID:8	[INFO: App       ] Packets Sent: 57
+10:00.073	ID:8	[INFO: App       ] Packets Received: 57
+10:00.073	ID:8	[INFO: App       ] PDR: 1.00
+10:00.073	ID:8	[INFO: App       ] Packet Loss: 0
+10:00.073	ID:8	[INFO: App       ] Average RTT (ticks): 99
+10:00.190	ID:11	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.190	ID:11	[INFO: App       ] Packets Sent: 55
+10:00.190	ID:11	[INFO: App       ] Packets Received: 55
+10:00.190	ID:11	[INFO: App       ] PDR: 1.00
+10:00.190	ID:11	[INFO: App       ] Packet Loss: 0
+10:00.190	ID:11	[INFO: App       ] Average RTT (ticks): 155
+10:00.236	ID:2	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.236	ID:2	[INFO: App       ] Packets Sent: 57
+10:00.236	ID:2	[INFO: App       ] Packets Received: 57
+10:00.236	ID:2	[INFO: App       ] PDR: 1.00
+10:00.236	ID:2	[INFO: App       ] Packet Loss: 0
+10:00.236	ID:2	[INFO: App       ] Average RTT (ticks): 47
+10:00.250	ID:6	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.250	ID:6	[INFO: App       ] Packets Sent: 56
+10:00.250	ID:6	[INFO: App       ] Packets Received: 56
+10:00.250	ID:6	[INFO: App       ] PDR: 1.00
+10:00.250	ID:6	[INFO: App       ] Packet Loss: 0
+10:00.250	ID:6	[INFO: App       ] Average RTT (ticks): 101
+10:00.348	ID:4	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.348	ID:4	[INFO: App       ] Packets Sent: 58
+10:00.348	ID:4	[INFO: App       ] Packets Received: 58
+10:00.348	ID:4	[INFO: App       ] PDR: 1.00
+10:00.348	ID:4	[INFO: App       ] Packet Loss: 0
+10:00.348	ID:4	[INFO: App       ] Average RTT (ticks): 52
+10:00.382	ID:1	[INFO: App       ] ==== BASELINE SERVER FINAL METRICS (10 min) ====
+10:00.382	ID:1	[INFO: App       ] Total packets received: 833
+10:00.382	ID:1	[INFO: App       ] Average inter-packet gap (ticks): 700
+10:00.402	ID:7	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.402	ID:7	[INFO: App       ] Packets Sent: 56
+10:00.402	ID:7	[INFO: App       ] Packets Received: 56
+10:00.402	ID:7	[INFO: App       ] PDR: 1.00
+10:00.402	ID:7	[INFO: App       ] Packet Loss: 0
+10:00.402	ID:7	[INFO: App       ] Average RTT (ticks): 103
+10:00.450	ID:14	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.450	ID:14	[INFO: App       ] Packets Sent: 55
+10:00.450	ID:14	[INFO: App       ] Packets Received: 55
+10:00.450	ID:14	[INFO: App       ] PDR: 1.00
+10:00.450	ID:14	[INFO: App       ] Packet Loss: 0
+10:00.450	ID:14	[INFO: App       ] Average RTT (ticks): 207
+10:00.462	ID:15	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.462	ID:15	[INFO: App       ] Packets Sent: 51
+10:00.462	ID:15	[INFO: App       ] Packets Received: 51
+10:00.462	ID:15	[INFO: App       ] PDR: 1.00
+10:00.462	ID:15	[INFO: App       ] Packet Loss: 0
+10:00.462	ID:15	[INFO: App       ] Average RTT (ticks): 285
+10:00.473	ID:16	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.473	ID:16	[INFO: App       ] Packets Sent: 53
+10:00.473	ID:16	[INFO: App       ] Packets Received: 53
+10:00.473	ID:16	[INFO: App       ] PDR: 1.00
+10:00.473	ID:16	[INFO: App       ] Packet Loss: 0
+10:00.473	ID:16	[INFO: App       ] Average RTT (ticks): 274
+10:00.556	ID:10	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.556	ID:10	[INFO: App       ] Packets Sent: 56
+10:00.556	ID:10	[INFO: App       ] Packets Received: 56
+10:00.556	ID:10	[INFO: App       ] PDR: 1.00
+10:00.556	ID:10	[INFO: App       ] Packet Loss: 0
+10:00.556	ID:10	[INFO: App       ] Average RTT (ticks): 154
+10:00.594	ID:12	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.594	ID:12	[INFO: App       ] Packets Sent: 54
+10:00.594	ID:12	[INFO: App       ] Packets Received: 54
+10:00.594	ID:12	[INFO: App       ] PDR: 1.00
+10:00.594	ID:12	[INFO: App       ] Packet Loss: 0
+10:00.594	ID:12	[INFO: App       ] Average RTT (ticks): 216
+10:00.708	ID:9	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.708	ID:9	[INFO: App       ] Packets Sent: 55
+10:00.708	ID:9	[INFO: App       ] Packets Received: 55
+10:00.708	ID:9	[INFO: App       ] PDR: 1.00
+10:00.708	ID:9	[INFO: App       ] Packet Loss: 0
+10:00.708	ID:9	[INFO: App       ] Average RTT (ticks): 160
+10:00.715	ID:5	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.715	ID:5	[INFO: App       ] Packets Sent: 58
+10:00.715	ID:5	[INFO: App       ] Packets Received: 58
+10:00.715	ID:5	[INFO: App       ] PDR: 1.00
+10:00.715	ID:5	[INFO: App       ] Packet Loss: 0
+10:00.715	ID:5	[INFO: App       ] Average RTT (ticks): 52
+10:00.884	ID:13	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.884	ID:13	[INFO: App       ] Packets Sent: 54
+10:00.884	ID:13	[INFO: App       ] Packets Received: 54
+10:00.884	ID:13	[INFO: App       ] PDR: 1.00
+10:00.884	ID:13	[INFO: App       ] Packet Loss: 0
+10:00.884	ID:13	[INFO: App       ] Average RTT (ticks): 208
+10:00.899	ID:3	[INFO: App       ] ==== BASELINE CLIENT FINAL METRICS (10 min) ====
+10:00.899	ID:3	[INFO: App       ] Packets Sent: 58
+10:00.899	ID:3	[INFO: App       ] Packets Received: 58
+10:00.899	ID:3	[INFO: App       ] PDR: 1.00
+10:00.899	ID:3	[INFO: App       ] Packet Loss: 0
+10:00.899	ID:3	[INFO: App       ] Average RTT (ticks): 52
