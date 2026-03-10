@@ -1,0 +1,371 @@
+00:00.073	ID:8	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.073	ID:8	[INFO: Main      ] - Routing: RPL Lite
+00:00.073	ID:8	[INFO: Main      ] - Net: sicslowpan
+00:00.073	ID:8	[INFO: Main      ] - MAC: CSMA
+00:00.073	ID:8	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.073	ID:8	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.073	ID:8	[INFO: Main      ] Node ID: 8
+00:00.073	ID:8	[INFO: Main      ] Link-layer address: 0008.0008.0008.0008
+00:00.073	ID:8	[INFO: Main      ] Tentative link-local IPv6 address: fe80::208:8:8:8
+00:00.190	ID:11	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.190	ID:11	[INFO: Main      ] - Routing: RPL Lite
+00:00.190	ID:11	[INFO: Main      ] - Net: sicslowpan
+00:00.190	ID:11	[INFO: Main      ] - MAC: CSMA
+00:00.190	ID:11	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.190	ID:11	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.190	ID:11	[INFO: Main      ] Node ID: 11
+00:00.190	ID:11	[INFO: Main      ] Link-layer address: 000b.000b.000b.000b
+00:00.190	ID:11	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20b:b:b:b
+00:00.236	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.236	ID:2	[INFO: Main      ] - Routing: RPL Lite
+00:00.236	ID:2	[INFO: Main      ] - Net: sicslowpan
+00:00.236	ID:2	[INFO: Main      ] - MAC: CSMA
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.236	ID:2	[INFO: Main      ] Node ID: 2
+00:00.236	ID:2	[INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+00:00.236	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+00:00.250	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.250	ID:6	[INFO: Main      ] - Routing: RPL Lite
+00:00.250	ID:6	[INFO: Main      ] - Net: sicslowpan
+00:00.250	ID:6	[INFO: Main      ] - MAC: CSMA
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.250	ID:6	[INFO: Main      ] Node ID: 6
+00:00.250	ID:6	[INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+00:00.250	ID:6	[INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+00:00.348	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.348	ID:4	[INFO: Main      ] - Routing: RPL Lite
+00:00.348	ID:4	[INFO: Main      ] - Net: sicslowpan
+00:00.348	ID:4	[INFO: Main      ] - MAC: CSMA
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.348	ID:4	[INFO: Main      ] Node ID: 4
+00:00.348	ID:4	[INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+00:00.348	ID:4	[INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+00:00.382	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.382	ID:1	[INFO: Main      ] - Routing: RPL Lite
+00:00.382	ID:1	[INFO: Main      ] - Net: sicslowpan
+00:00.382	ID:1	[INFO: Main      ] - MAC: CSMA
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.382	ID:1	[INFO: Main      ] Node ID: 1
+00:00.382	ID:1	[INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+00:00.382	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+00:00.402	ID:7	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.402	ID:7	[INFO: Main      ] - Routing: RPL Lite
+00:00.402	ID:7	[INFO: Main      ] - Net: sicslowpan
+00:00.402	ID:7	[INFO: Main      ] - MAC: CSMA
+00:00.402	ID:7	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.402	ID:7	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.402	ID:7	[INFO: Main      ] Node ID: 7
+00:00.402	ID:7	[INFO: Main      ] Link-layer address: 0007.0007.0007.0007
+00:00.402	ID:7	[INFO: Main      ] Tentative link-local IPv6 address: fe80::207:7:7:7
+00:00.450	ID:14	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.450	ID:14	[INFO: Main      ] - Routing: RPL Lite
+00:00.450	ID:14	[INFO: Main      ] - Net: sicslowpan
+00:00.450	ID:14	[INFO: Main      ] - MAC: CSMA
+00:00.450	ID:14	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.450	ID:14	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.450	ID:14	[INFO: Main      ] Node ID: 14
+00:00.450	ID:14	[INFO: Main      ] Link-layer address: 000e.000e.000e.000e
+00:00.450	ID:14	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20e:e:e:e
+00:00.462	ID:15	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.462	ID:15	[INFO: Main      ] - Routing: RPL Lite
+00:00.462	ID:15	[INFO: Main      ] - Net: sicslowpan
+00:00.462	ID:15	[INFO: Main      ] - MAC: CSMA
+00:00.462	ID:15	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.462	ID:15	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.462	ID:15	[INFO: Main      ] Node ID: 15
+00:00.462	ID:15	[INFO: Main      ] Link-layer address: 000f.000f.000f.000f
+00:00.462	ID:15	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20f:f:f:f
+00:00.473	ID:16	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.473	ID:16	[INFO: Main      ] - Routing: RPL Lite
+00:00.473	ID:16	[INFO: Main      ] - Net: sicslowpan
+00:00.473	ID:16	[INFO: Main      ] - MAC: CSMA
+00:00.473	ID:16	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.473	ID:16	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.473	ID:16	[INFO: Main      ] Node ID: 16
+00:00.473	ID:16	[INFO: Main      ] Link-layer address: 0010.0010.0010.0010
+00:00.473	ID:16	[INFO: Main      ] Tentative link-local IPv6 address: fe80::210:10:10:10
+00:00.556	ID:10	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.556	ID:10	[INFO: Main      ] - Routing: RPL Lite
+00:00.556	ID:10	[INFO: Main      ] - Net: sicslowpan
+00:00.556	ID:10	[INFO: Main      ] - MAC: CSMA
+00:00.556	ID:10	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.556	ID:10	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.556	ID:10	[INFO: Main      ] Node ID: 10
+00:00.556	ID:10	[INFO: Main      ] Link-layer address: 000a.000a.000a.000a
+00:00.556	ID:10	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20a:a:a:a
+00:00.594	ID:12	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.594	ID:12	[INFO: Main      ] - Routing: RPL Lite
+00:00.594	ID:12	[INFO: Main      ] - Net: sicslowpan
+00:00.594	ID:12	[INFO: Main      ] - MAC: CSMA
+00:00.594	ID:12	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.594	ID:12	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.594	ID:12	[INFO: Main      ] Node ID: 12
+00:00.594	ID:12	[INFO: Main      ] Link-layer address: 000c.000c.000c.000c
+00:00.594	ID:12	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20c:c:c:c
+00:00.708	ID:9	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.708	ID:9	[INFO: Main      ] - Routing: RPL Lite
+00:00.708	ID:9	[INFO: Main      ] - Net: sicslowpan
+00:00.708	ID:9	[INFO: Main      ] - MAC: CSMA
+00:00.708	ID:9	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.708	ID:9	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.708	ID:9	[INFO: Main      ] Node ID: 9
+00:00.708	ID:9	[INFO: Main      ] Link-layer address: 0009.0009.0009.0009
+00:00.708	ID:9	[INFO: Main      ] Tentative link-local IPv6 address: fe80::209:9:9:9
+00:00.715	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.715	ID:5	[INFO: Main      ] - Routing: RPL Lite
+00:00.715	ID:5	[INFO: Main      ] - Net: sicslowpan
+00:00.715	ID:5	[INFO: Main      ] - MAC: CSMA
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.715	ID:5	[INFO: Main      ] Node ID: 5
+00:00.715	ID:5	[INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+00:00.715	ID:5	[INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+00:00.884	ID:13	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.884	ID:13	[INFO: Main      ] - Routing: RPL Lite
+00:00.884	ID:13	[INFO: Main      ] - Net: sicslowpan
+00:00.884	ID:13	[INFO: Main      ] - MAC: CSMA
+00:00.884	ID:13	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.884	ID:13	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.884	ID:13	[INFO: Main      ] Node ID: 13
+00:00.884	ID:13	[INFO: Main      ] Link-layer address: 000d.000d.000d.000d
+00:00.884	ID:13	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20d:d:d:d
+00:00.899	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v5.1-63-gbd08e3273
+00:00.899	ID:3	[INFO: Main      ] - Routing: RPL Lite
+00:00.899	ID:3	[INFO: Main      ] - Net: sicslowpan
+00:00.899	ID:3	[INFO: Main      ] - MAC: CSMA
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.899	ID:3	[INFO: Main      ] Node ID: 3
+00:00.899	ID:3	[INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+00:00.899	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+00:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+00:10.382	ID:1	[WARN: App       ] Total packets in window: 0
+00:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+00:20.382	ID:1	[WARN: App       ] Total packets in window: 1
+00:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+00:30.382	ID:1	[WARN: App       ] Total packets in window: 4
+00:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+00:40.382	ID:1	[WARN: App       ] Total packets in window: 6
+00:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+00:50.382	ID:1	[WARN: App       ] Total packets in window: 9
+01:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+01:00.382	ID:1	[WARN: App       ] Total packets in window: 11
+01:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+01:10.382	ID:1	[WARN: App       ] Total packets in window: 21
+01:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+01:20.382	ID:1	[WARN: App       ] Total packets in window: 97
+01:20.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 84
+01:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+01:30.382	ID:1	[WARN: App       ] Total packets in window: 106
+01:30.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 92
+01:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+01:40.382	ID:1	[WARN: App       ] Total packets in window: 73
+01:40.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 65
+01:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+01:50.382	ID:1	[WARN: App       ] Total packets in window: 58
+02:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+02:00.382	ID:1	[WARN: App       ] Total packets in window: 67
+02:00.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 60
+02:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+02:10.382	ID:1	[WARN: App       ] Total packets in window: 91
+02:10.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 81
+02:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+02:20.382	ID:1	[WARN: App       ] Total packets in window: 70
+02:20.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 63
+02:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+02:30.382	ID:1	[WARN: App       ] Total packets in window: 69
+02:30.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 59
+02:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+02:40.382	ID:1	[WARN: App       ] Total packets in window: 14
+02:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+02:50.382	ID:1	[WARN: App       ] Total packets in window: 8
+03:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+03:00.382	ID:1	[WARN: App       ] Total packets in window: 9
+03:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+03:10.382	ID:1	[WARN: App       ] Total packets in window: 26
+03:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+03:20.382	ID:1	[WARN: App       ] Total packets in window: 72
+03:20.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 64
+03:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+03:30.382	ID:1	[WARN: App       ] Total packets in window: 90
+03:30.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 79
+03:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+03:40.382	ID:1	[WARN: App       ] Total packets in window: 58
+03:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+03:50.382	ID:1	[WARN: App       ] Total packets in window: 72
+03:50.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 63
+04:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+04:00.382	ID:1	[WARN: App       ] Total packets in window: 70
+04:00.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 58
+04:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+04:10.382	ID:1	[WARN: App       ] Total packets in window: 60
+04:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+04:20.382	ID:1	[WARN: App       ] Total packets in window: 73
+04:20.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 64
+04:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+04:30.382	ID:1	[WARN: App       ] Total packets in window: 65
+04:30.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 55
+04:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+04:40.382	ID:1	[WARN: App       ] Total packets in window: 70
+04:40.382	ID:1	[WARN: App       ] Node 16 is FLOODING! Packets: 60
+04:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+04:50.382	ID:1	[WARN: App       ] Total packets in window: 60
+05:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+05:00.382	ID:1	[WARN: App       ] Total packets in window: 7
+05:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+05:10.382	ID:1	[WARN: App       ] Total packets in window: 7
+05:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+05:20.382	ID:1	[WARN: App       ] Total packets in window: 7
+05:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+05:30.382	ID:1	[WARN: App       ] Total packets in window: 7
+05:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+05:40.382	ID:1	[WARN: App       ] Total packets in window: 7
+05:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+05:50.382	ID:1	[WARN: App       ] Total packets in window: 7
+06:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+06:00.382	ID:1	[WARN: App       ] Total packets in window: 7
+06:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+06:10.382	ID:1	[WARN: App       ] Total packets in window: 7
+06:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+06:20.382	ID:1	[WARN: App       ] Total packets in window: 7
+06:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+06:30.382	ID:1	[WARN: App       ] Total packets in window: 7
+06:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+06:40.382	ID:1	[WARN: App       ] Total packets in window: 7
+06:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+06:50.382	ID:1	[WARN: App       ] Total packets in window: 7
+07:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+07:00.382	ID:1	[WARN: App       ] Total packets in window: 9
+07:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+07:10.382	ID:1	[WARN: App       ] Total packets in window: 11
+07:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+07:20.382	ID:1	[WARN: App       ] Total packets in window: 11
+07:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+07:30.382	ID:1	[WARN: App       ] Total packets in window: 11
+07:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+07:40.382	ID:1	[WARN: App       ] Total packets in window: 11
+07:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+07:50.382	ID:1	[WARN: App       ] Total packets in window: 11
+08:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+08:00.382	ID:1	[WARN: App       ] Total packets in window: 10
+08:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+08:10.382	ID:1	[WARN: App       ] Total packets in window: 11
+08:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+08:20.382	ID:1	[WARN: App       ] Total packets in window: 12
+08:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+08:30.382	ID:1	[WARN: App       ] Total packets in window: 11
+08:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+08:40.382	ID:1	[WARN: App       ] Total packets in window: 11
+08:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+08:50.382	ID:1	[WARN: App       ] Total packets in window: 11
+09:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+09:00.382	ID:1	[WARN: App       ] Total packets in window: 11
+09:10.382	ID:1	[WARN: App       ] ---- Detection Window ----
+09:10.382	ID:1	[WARN: App       ] Total packets in window: 11
+09:20.382	ID:1	[WARN: App       ] ---- Detection Window ----
+09:20.382	ID:1	[WARN: App       ] Total packets in window: 10
+09:30.382	ID:1	[WARN: App       ] ---- Detection Window ----
+09:30.382	ID:1	[WARN: App       ] Total packets in window: 11
+09:40.382	ID:1	[WARN: App       ] ---- Detection Window ----
+09:40.382	ID:1	[WARN: App       ] Total packets in window: 12
+09:50.382	ID:1	[WARN: App       ] ---- Detection Window ----
+09:50.382	ID:1	[WARN: App       ] Total packets in window: 12
+10:00.073	ID:8	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.073	ID:8	[INFO: App       ] Packets Sent: 57
+10:00.073	ID:8	[INFO: App       ] Packets Received: 57
+10:00.073	ID:8	[INFO: App       ] PDR: 1.00
+10:00.073	ID:8	[INFO: App       ] Packet Loss: 0
+10:00.073	ID:8	[INFO: App       ] Average RTT (ticks): 481
+10:00.194	ID:11	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.194	ID:11	[INFO: App       ] Packets Sent: 20
+10:00.194	ID:11	[INFO: App       ] Packets Received: 8
+10:00.194	ID:11	[INFO: App       ] PDR: 0.40
+10:00.194	ID:11	[INFO: App       ] Packet Loss: 12
+10:00.194	ID:11	[INFO: App       ] Average RTT (ticks): 3069
+10:00.236	ID:2	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.236	ID:2	[INFO: App       ] Packets Sent: 58
+10:00.236	ID:2	[INFO: App       ] Packets Received: 57
+10:00.236	ID:2	[INFO: App       ] PDR: 0.98
+10:00.236	ID:2	[INFO: App       ] Packet Loss: 1
+10:00.236	ID:2	[INFO: App       ] Average RTT (ticks): 58
+10:00.250	ID:6	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.250	ID:6	[INFO: App       ] Packets Sent: 24
+10:00.250	ID:6	[INFO: App       ] Packets Received: 24
+10:00.250	ID:6	[INFO: App       ] PDR: 1.00
+10:00.250	ID:6	[INFO: App       ] Packet Loss: 0
+10:00.250	ID:6	[INFO: App       ] Average RTT (ticks): 141
+10:00.348	ID:4	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.348	ID:4	[INFO: App       ] Packets Sent: 58
+10:00.348	ID:4	[INFO: App       ] Packets Received: 58
+10:00.348	ID:4	[INFO: App       ] PDR: 1.00
+10:00.348	ID:4	[INFO: App       ] Packet Loss: 0
+10:00.348	ID:4	[INFO: App       ] Average RTT (ticks): 92
+10:00.382	ID:1	[WARN: App       ] ---- Detection Window ----
+10:00.382	ID:1	[WARN: App       ] Total packets in window: 10
+10:00.382	ID:1	[WARN: App       ] ==== SERVER FINAL METRICS (10 min) ====
+10:00.382	ID:1	[WARN: App       ] Total packets received (10 min): 1721
+10:00.382	ID:1	[WARN: App       ] Average inter-packet gap (ticks): 339
+10:00.402	ID:7	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.402	ID:7	[INFO: App       ] Packets Sent: 56
+10:00.402	ID:7	[INFO: App       ] Packets Received: 51
+10:00.402	ID:7	[INFO: App       ] PDR: 0.91
+10:00.402	ID:7	[INFO: App       ] Packet Loss: 5
+10:00.402	ID:7	[INFO: App       ] Average RTT (ticks): 404
+10:00.450	ID:14	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.450	ID:14	[INFO: App       ] Packets Sent: 13
+10:00.450	ID:14	[INFO: App       ] Packets Received: 11
+10:00.450	ID:14	[INFO: App       ] PDR: 0.85
+10:00.450	ID:14	[INFO: App       ] Packet Loss: 2
+10:00.450	ID:14	[INFO: App       ] Average RTT (ticks): 4301
+10:00.462	ID:15	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.462	ID:15	[INFO: App       ] Packets Sent: 21
+10:00.462	ID:15	[INFO: App       ] Packets Received: 10
+10:00.462	ID:15	[INFO: App       ] PDR: 0.48
+10:00.462	ID:15	[INFO: App       ] Packet Loss: 11
+10:00.462	ID:15	[INFO: App       ] Average RTT (ticks): 2520
+10:00.473	ID:16	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.473	ID:16	[INFO: App       ] Packets Sent: 4614
+10:00.473	ID:16	[INFO: App       ] Packets Received: 1021
+10:00.473	ID:16	[INFO: App       ] PDR: 0.22
+10:00.473	ID:16	[INFO: App       ] Packet Loss: 3593
+10:00.473	ID:16	[INFO: App       ] Average RTT (ticks): 2286
+10:00.556	ID:10	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.556	ID:10	[INFO: App       ] Packets Sent: 56
+10:00.556	ID:10	[INFO: App       ] Packets Received: 54
+10:00.556	ID:10	[INFO: App       ] PDR: 0.96
+10:00.556	ID:10	[INFO: App       ] Packet Loss: 2
+10:00.556	ID:10	[INFO: App       ] Average RTT (ticks): 1262
+10:00.594	ID:12	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.594	ID:12	[INFO: App       ] Packets Sent: 26
+10:00.594	ID:12	[INFO: App       ] Packets Received: 22
+10:00.594	ID:12	[INFO: App       ] PDR: 0.85
+10:00.594	ID:12	[INFO: App       ] Packet Loss: 4
+10:00.594	ID:12	[INFO: App       ] Average RTT (ticks): 406
+10:00.708	ID:9	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.708	ID:9	[INFO: App       ] Packets Sent: 25
+10:00.708	ID:9	[INFO: App       ] Packets Received: 22
+10:00.708	ID:9	[INFO: App       ] PDR: 0.88
+10:00.708	ID:9	[INFO: App       ] Packet Loss: 3
+10:00.708	ID:9	[INFO: App       ] Average RTT (ticks): 238
+10:00.715	ID:5	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.715	ID:5	[INFO: App       ] Packets Sent: 59
+10:00.715	ID:5	[INFO: App       ] Packets Received: 59
+10:00.715	ID:5	[INFO: App       ] PDR: 1.00
+10:00.715	ID:5	[INFO: App       ] Packet Loss: 0
+10:00.715	ID:5	[INFO: App       ] Average RTT (ticks): 241
+10:00.884	ID:13	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.884	ID:13	[INFO: App       ] Packets Sent: 43
+10:00.884	ID:13	[INFO: App       ] Packets Received: 37
+10:00.884	ID:13	[INFO: App       ] PDR: 0.86
+10:00.884	ID:13	[INFO: App       ] Packet Loss: 6
+10:00.884	ID:13	[INFO: App       ] Average RTT (ticks): 1670
+10:00.899	ID:3	[INFO: App       ] ==== CLIENT FINAL METRICS (10 min) ====
+10:00.899	ID:3	[INFO: App       ] Packets Sent: 58
+10:00.899	ID:3	[INFO: App       ] Packets Received: 57
+10:00.899	ID:3	[INFO: App       ] PDR: 0.98
+10:00.899	ID:3	[INFO: App       ] Packet Loss: 1
+10:00.899	ID:3	[INFO: App       ] Average RTT (ticks): 129
